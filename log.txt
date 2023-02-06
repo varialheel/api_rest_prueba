@@ -1,0 +1,83 @@
+[20-Jan-2023 09:24:14 Europe/Berlin] PHP Warning:  require_once(routes/router.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\api_rest_prueba\index.php on line 9
+[20-Jan-2023 09:24:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'routes/router.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\api_rest_prueba\index.php:9
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\index.php on line 9
+[23-Jan-2023 20:04:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:04:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:06:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:08:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:08:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:09:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:10:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:10:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:11:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:13:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:14:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:15:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
+[23-Jan-2023 20:16:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "GetController" not found in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php:3
+Stack trace:
+#0 C:\xampp\htdocs\api_rest_prueba\routes\routes.php(16): require_once()
+#1 C:\xampp\htdocs\api_rest_prueba\index.php(10): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\api_rest_prueba\routes\services\get.php on line 3
